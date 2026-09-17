@@ -72,10 +72,10 @@ For the CCPP model:
 
 ### References
 
-Gettelman, A., Truesdale, J. E., Bacmeister, J. T., Caldwell, P. M., Neale, R. B., Bogenschutz, P. A., & Simpson, I. R. (2019). The Single Column Atmosphere Model version 6 (SCAM6): Not a scam but a tool for model evaluation and development. Journal of Advances in Modeling Earth Systems, 11, 1381– 1401. https://doi.org/10.1029/2018MS001578
+Gettelman, A., Truesdale, J. E., Bacmeister, J. T., Caldwell, P. M., Neale, R. B., Bogenschutz, P. A., & Simpson, I. R. (2019). The Single Column Atmosphere Model version 6 (SCAM6): Not a scam but a tool for model evaluation and development. Journal of Advances in Modeling Earth Systems, 11, 1381– 1401. https://doi.org/10.1029/2018MS001578.
 
 Khairoutdinov, M. F., and D. A. Randall, 2003: Cloud Resolving Modeling of the ARM Summer 1997 IOP: Model Formulation, Results, Uncertainties, and Sensitivities. J. Atmos. Sci., 60, 607–625, https://doi.org/10.1175/1520-0469(2003)060<0607:CRMOTA>2.0.CO;2.
 
 Ligia Bernardet, Lisa Bengtsson, Patrick A. Reinecke, Fanglin Yang, Man Zhang, Kyle Hall, James Doyle, Matus Martini, Grant Firl, and Lulin Xue:
 Common Community Physics Package: Fostering Collaborative Development in Physical Parameterizations and Suites. Bull. Amer. Meteor. Soc., 105, E1490–E1505
-https://doi.org/10.1175/BAMS-D-23-0227.1
+https://doi.org/10.1175/BAMS-D-23-0227.1.
