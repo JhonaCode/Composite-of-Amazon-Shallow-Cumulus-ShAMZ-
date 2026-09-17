@@ -16,10 +16,10 @@ Modeling (SAM)  v.6.10.6 (Khairoutdinov & Randall, 2003) model is show in Fig.1.
 <p align="center">
  <img src="fig/mass_flux_2d_ca_sh.png" width="500" />
 </p>
-Figure 1. The time evolution (average every 5 minutes) of the updraft mass flux (uMF) [kgm^2s^-1] profiles
+Figure 1. The time evolution (average every 5 minutes) of the updraft mass flux (uMF) [kgm<sup>2</sup>s<sup>-1</sup>] profiles
 for the Amazon ShCu. The mixing layer height (Zi, black lines) is defined at the minimum buoyancy flux (B), cloud base
 height [km] (h_base, red dashed lines) at the maximum CF level, cloud top [km] (h_top, black dot-
-ted lines) at the level where CLW<0.001 [gkg−1]  above cloud base and the
+ted lines) at the level where CLW<0.001 [gkg<sup>-1</sup>]  above cloud base and the
 level of free convection (LFC [km], purple dashed lines) at the level where B>0, above Zi.
 
 <br><br>
@@ -37,12 +37,11 @@ in Fig. 2.
   <img src="/fig/mass_flux_2d_medium.png" width="240" /> 
   <img src="/fig/mass_flux_2d_large_all.png" width="300" />
 </p>
-Figure 2. The time evolution of the updraft mass flux (uMF) [kgm−2s−1] profiles
+Figure 2. The time evolution of the updraft mass flux (uMF) [kgm<sup>2</sup>s<sup>-1</sup>] profiles
 for small, medium and large ShCu composites. 
 
-<br><br>
 
-These composites are result of the published studies:
+## These composites are result of the published studies:
 
 Buoyancy Flux and Its Environmental Modulation in the Vertical Development of Shallow Cumulus in the Central Amazon. 
 Authors: Silvio N. Figueroa, Jhonatan A. A. Manco, Georgios A. Efstathiou.
