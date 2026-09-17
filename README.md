@@ -68,7 +68,7 @@ For the NCAR SCAM 6 model:
 
 For the CCPP model:
 
-[<img src='fig/logo-ncar-active.png' width='150'>](SCAM_forcings)
+[<img src='fig/logo-ccpp.png' width='150'>](CCPP_forcings)
 
 ### References
 
