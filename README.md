@@ -44,13 +44,13 @@ These composites are result of the published studies:
 
 Buoyancy Flux and Its Environmental Modulation in the Vertical Development of Shallow Cumulus in the Central Amazon. 
 Authors: Silvio N. Figueroa, Jhonatan A. A. Manco, Georgios A. Efstathiou
-[Link to paper](https://doi.org/10.1029/2025JD045576)
+[DOI: https://doi.org/10.1029/2025JD045576](https://doi.org/10.1029/2025JD045576)
 
 and
 
 Large Eddy Simulation of the Diurnal Cycle of Shallow Convection in the Central Amazon.
 Authors: Jhonatan A. A. Manco and  Silvio N. Figueroa.
-[Link to paper](https://doi.org/10.3390/atmos16070789)
+[DOI: https://doi.org/10.3390/atmos16070789](https://doi.org/10.3390/atmos16070789)
 _____
 ## Data:
 
