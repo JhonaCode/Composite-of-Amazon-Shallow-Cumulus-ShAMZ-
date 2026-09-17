@@ -40,6 +40,8 @@ in Fig. 2.
 Figure 2. The time evolution of the updraft mass flux (uMF) [kgm−2s−1] profiles
 for small, medium and large ShCu composites. 
 
+
+
 These composites are result of the published studies:
 
 Buoyancy Flux and Its Environmental Modulation in the Vertical Development of Shallow Cumulus in the Central Amazon. 
