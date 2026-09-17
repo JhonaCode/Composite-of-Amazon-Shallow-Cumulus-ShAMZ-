@@ -11,7 +11,7 @@ averaging data set from 30 representative
 cases of ShCu in CAMZ during the intensive operational period 1 and 2, IOP1 and IOP2 
 respectively. This composite is called Amazon ShAMZ, its mass flux time 
 evolution simulated by the System for Atmospheric
-Modeling (SAM)  v.6.10.6 (Khairoutdinov & Randall, 2003) model is show in Fig.1. 
+Modeling (SAM) v.6.10.6 (Khairoutdinov & Randall, 2003) model is show in Fig.1. 
 
 <p align="center">
  <img src="fig/mass_flux_2d_ca_sh.png" width="500" />
