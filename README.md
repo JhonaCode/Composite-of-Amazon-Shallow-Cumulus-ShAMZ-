@@ -43,7 +43,7 @@ for small, medium and large ShCu composites.
 These composites are result of the published studies:
 
 Buoyancy Flux and Its Environmental Modulation in the Vertical Development of Shallow Cumulus in the Central Amazon. 
-Authors: Silvio N. Figueroa, Jhonatan A. A. Manco, Georgios A. Efstathiou
+Authors: Silvio N. Figueroa, Jhonatan A. A. Manco, Georgios A. Efstathiou.
 [DOI: https://doi.org/10.1029/2025JD045576](https://doi.org/10.1029/2025JD045576)
 
 and
